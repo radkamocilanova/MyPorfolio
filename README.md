@@ -1,4 +1,4 @@
-# 🎯 Marketing Portfolio by Your Name
+# 🎯 Marketing Portfolio by Radka Močilanová
 
 ## 🧭 Overview
 Toto portfólio prezentuje ukážky projektov z oblasti digitálneho marketingu so zameraním na PPC kampane (Google Ads, Facebook Meta Ads), SEO optimalizáciu a marketingovú automatizáciu.
